@@ -14,3 +14,8 @@ Designed three well-fit models to predict infected and dead populations based on
 
 ![Correlation Plot](/assets/img/CovidCorPlot.png)
 
+### Equine Influenza Modeling
+*As the book has yet to be released, no PDF is included to protect the author's data.
+
+Analyzed Equine Influenza data from the 1870s in collaboration with the History Department. Performed data cleaning and transformation to combat non-specific dates of first transmission per town, among other difficulties when working with historical newspaper data.  Evaluated trends in the spread of influenza using GIS spatial analysis to provide insights on the travel of the disease and its impacts for an upcoming book.
+
