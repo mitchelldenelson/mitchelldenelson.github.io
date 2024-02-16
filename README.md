@@ -1,7 +1,7 @@
 ## Data Scientist | Historian | Data Storyteller
 
 #### Data Visualization, Analysis, and Modeling with R, Python, and SQL
-#### [LinkedIn](https://www.linkedin.com/in/mitchell-de-nelson/)
+##### [LinkedIn](https://www.linkedin.com/in/mitchell-de-nelson/)
 
 ## Education
 - B.A. Data Science | The University of Colorado Boulder (_May 2023_)
