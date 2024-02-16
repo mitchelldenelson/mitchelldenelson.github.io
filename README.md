@@ -2,7 +2,7 @@
 
 #### Data Visualization, Analysis, and Modeling with R, Python, and SQL
 
-### Education
+#### Education
 - B.A., Data Science | The University of Colorado Boulder (_May 2023_)
 - B.A., History | The University of Colorado Boulder (_May 2023_)								       		
 
