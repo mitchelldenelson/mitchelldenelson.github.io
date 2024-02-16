@@ -4,7 +4,7 @@
 
 ### Education
 - B.A. Data Science | The University of Colorado Boulder (_May 2023_)
-- B.A., History | The University of Colorado Boulder (_May 2023_)								       		
+- B.A. History | The University of Colorado Boulder (_May 2023_)								       		
 
 ### Projects
 #### COVID Infection Modeling 
