@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Scientist | Historian | Data Storyteller
 
 #### Data Visualization, Analysis, and Modeling with R, Python, and SQL
 
